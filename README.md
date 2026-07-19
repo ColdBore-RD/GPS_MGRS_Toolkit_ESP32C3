@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Ubiquitous Palm Tree</h1>
+  <h1>GPS MGRS Toolkit — ESP32-C3</h1>
 
   <p>
     XIAO ESP32-C3 GPS platform with a from-scratch WGS84 &rarr; UTM &rarr; MGRS conversion library.
@@ -8,32 +8,32 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ColdBore-RD/ubiquitous-palm-tree" alt="contributors" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="contributors" />
   </a>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ColdBore-RD/ubiquitous-palm-tree" alt="last update" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="last update" />
   </a>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/network/members">
-    <img src="https://img.shields.io/github/forks/ColdBore-RD/ubiquitous-palm-tree" alt="forks" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/network/members">
+    <img src="https://img.shields.io/github/forks/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="forks" />
   </a>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/stargazers">
-    <img src="https://img.shields.io/github/stars/ColdBore-RD/ubiquitous-palm-tree" alt="stars" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/stargazers">
+    <img src="https://img.shields.io/github/stars/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="stars" />
   </a>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/issues/">
-    <img src="https://img.shields.io/github/issues/ColdBore-RD/ubiquitous-palm-tree" alt="open issues" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/issues/">
+    <img src="https://img.shields.io/github/issues/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="open issues" />
   </a>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ColdBore-RD/ubiquitous-palm-tree" alt="license" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="license" />
   </a>
 </p>
 
 <h4>
     <a href="MGRS/README.md">Library Docs</a>
   <span> · </span>
-    <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/issues/">Report Bug</a>
+    <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/issues/">Request Feature</a>
+    <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -160,7 +160,7 @@ known-correct MGRS strings:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ColdBore-RD/ubiquitous-palm-tree.git
+git clone https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3.git
 ```
 
 Install the `MGRS` library by copying (or symlinking) the `MGRS/` folder into your Arduino
@@ -245,8 +245,8 @@ See [`MGRS/README.md`](MGRS/README.md) for the full API reference.
 ## Contributing
 
 This is a Cold Bore Research & Development project. Issues and pull requests are welcome — see
-[Report Bug](https://github.com/ColdBore-RD/ubiquitous-palm-tree/issues/) or
-[Request Feature](https://github.com/ColdBore-RD/ubiquitous-palm-tree/issues/) to get started.
+[Report Bug](https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/issues/) or
+[Request Feature](https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/issues/) to get started.
 
 <!-- FAQ -->
 ## FAQ
@@ -277,7 +277,7 @@ Cold Bore Research & Development
 - Website: [ColdBoreRD.com](https://www.ColdBoreRD.com)
 - Email: [ColdBoreRD@proton.me](mailto:ColdBoreRD@proton.me)
 
-Project Link: [https://github.com/ColdBore-RD/ubiquitous-palm-tree](https://github.com/ColdBore-RD/ubiquitous-palm-tree)
+Project Link: [https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3](https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3)
 
 <!-- Acknowledgements -->
 ## Acknowledgements

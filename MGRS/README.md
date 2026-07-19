@@ -7,8 +7,8 @@
   </p>
 
 <p>
-  <a href="https://github.com/ColdBore-RD/ubiquitous-palm-tree/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ColdBore-RD/ubiquitous-palm-tree" alt="license" />
+  <a href="https://github.com/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ColdBore-RD/GPS_MGRS_Toolkit_ESP32C3" alt="license" />
   </a>
   <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="version" />
 </p>
