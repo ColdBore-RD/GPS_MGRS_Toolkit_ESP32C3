@@ -85,6 +85,8 @@ wiring, UART decoding, and the UTM/MGRS math independently of one another.
 | [`UTM_Test/`](UTM_Test/README.md) | Test sketch | Single-point UTM/MGRS field dump against a known control point |
 | [`MGRS_Test/`](MGRS_Test/README.md) | Test sketch | MGRS conversion across 5 global reference points |
 | [`MGRS_Validation/`](MGRS_Validation/README.md) | Test sketch | MGRS string output checked against known-correct values |
+| [`GPS_MQTT_Diagnostic_ESP32C3/`](GPS_MQTT_Diagnostic_ESP32C3/README.md) | Test sketch | Same full GPS field set as the kitchen-sink sketches, published as JSON over MQTT for viewing in Node-RED |
+| [`GPS_MQTT_Display_ESP32S3/`](GPS_MQTT_Display_ESP32S3/README.md) | Test sketch | Waveshare ESP32-S3-Zero + ILI9341 TFT — subscribes to the MQTT diagnostic feed and renders it as a physical dashboard |
 | `Board_Reference_Data/` | Reference | XIAO ESP32-C3 pinout diagram |
 
 <!-- Hardware -->

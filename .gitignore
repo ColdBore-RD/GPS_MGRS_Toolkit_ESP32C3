@@ -1,0 +1,8 @@
+# Credentials — never commit
+**/secrets.h
+MQTT_Dashboard_Handoff.md
+
+# Arduino / build artifacts
+build/
+*.bin
+*.elf
